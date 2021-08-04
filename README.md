@@ -12,12 +12,21 @@
 
 #### My Skills:
 
-Programming | Art & Design | Software
-------------|--------------|---------
-C++ | 3D Modelling | 3DSMax
-C# |  Rigging | Unreal Engine
-GLSL | Animation | Unity Engine
-Lua | UI/UX | Blender
+Programming | Software | Deployment & Usage
+------------|----------|-------------------
+C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
+C# |  Visual Studio, VSCode | Unity Engine, Custom Applications, Script Development
+GLSL | Visual Studio | Custom Graphics Engine / Framework
+Lua | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
+HTML | VSCode | HTML Based Web-Devlopment
+CSS | VSCode | Used in Tandem with HTML
+
+Art & Design | Software | Deployment & Usage
+-------------|----------|-------------------
+3D Modelling | 3DSMax & Blender | Unreal Engine, Unity Engine, Custom Models
+Rigging | 3DSMax & Blender | Unreal Engine, Unity Engine, Custom Rigs for Models
+Animation | 3DSMax & Blender | Unreal Engine, Unity Engine, Custom Animations
+UI/UX | Adobe Photoshop & Adobe Illustrator | Unreal Engine, Unity Engine, Web Development
 
 
 <!--
