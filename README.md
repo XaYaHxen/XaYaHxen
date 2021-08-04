@@ -23,10 +23,10 @@ CSS | VSCode | Used in Tandem with HTML
 
 Art & Design | Software | Deployment & Usage
 -------------|----------|-------------------
-3D Modelling | 3DSMax & Blender | Unreal Engine, Unity Engine, Custom Models
-Rigging | 3DSMax & Blender | Unreal Engine, Unity Engine, Custom Rigs for Models
-Animation | 3DSMax & Blender | Unreal Engine, Unity Engine, Custom Animations
-UI/UX | Adobe Photoshop & Adobe Illustrator | Unreal Engine, Unity Engine, Web Development
+3D Modelling | 3DSMax, Blender | Unreal Engine, Unity Engine, Custom Models
+Rigging | 3DSMax, Blender | Unreal Engine, Unity Engine, Custom Rigs for Models
+Animation | 3DSMax, Blender | Unreal Engine, Unity Engine, Custom Animations
+UI/UX | Adobe Photoshop, Adobe Illustrator | Unreal Engine, Unity Engine, Web Development
 
 
 <!--
