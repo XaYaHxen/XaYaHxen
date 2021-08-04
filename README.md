@@ -10,6 +10,15 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexander-bowerman)
 
+#### My Skills:
+
+Programming | Art & Design | Programs
+C++ | 3D Modelling | 3DSMax
+C# |  Rigging | Unreal Engine
+GLSL | Animation | Unity Engine
+Lua | UI/UX | Blender
+
+
 <!--
 **XaYaHxen/XaYaHxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
