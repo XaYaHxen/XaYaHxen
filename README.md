@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Alexander Bowerman! 
+## My name is Alexander Bowerman! 
 
-I am a Game Developer from Ontario, Canada. 
+### I am a Game Developer from Ontario, Canada. 
 
-I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
+#### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
 
-🔭 I’m currently working on: SpiritScape (Unity Project) and A Secret Project (Unreal Engine)!
+🔭 I’m currently working on: SpiritScape (**Unity Engine** _/_ **C#**) & A Secret Project (**Unreal Engine** _/_ **C++**)!
 
 😄 Pronouns: He/Him
 
-📫 How to reach me: LinkedIn
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexander-bowerman)
 
 <!--
 **XaYaHxen/XaYaHxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
