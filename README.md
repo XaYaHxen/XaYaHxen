@@ -1,10 +1,8 @@
-# Hi there 👋
+# Hi there 👋 My name is Alexander Bowerman! 
 
-## My name is Alexander Bowerman! 
+## I am a Game Developer from Ontario, Canada. 
 
-### I am a Game Developer from Ontario, Canada. 
-
-#### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
+### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
 
 🔭 I’m currently working on: SpiritScape (**Unity Engine** _/_ **C#**) & A Secret Project (**Unreal Engine** _/_ **C++**)!
 
