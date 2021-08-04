@@ -12,7 +12,8 @@
 
 #### My Skills:
 
-Programming | Art & Design | Programs
+Programming | Art & Design | Software
+------------|--------------|---------
 C++ | 3D Modelling | 3DSMax
 C# |  Rigging | Unreal Engine
 GLSL | Animation | Unity Engine
