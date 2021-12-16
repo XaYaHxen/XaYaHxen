@@ -18,8 +18,14 @@ C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
 C# |  Visual Studio, VSCode | Unity Engine, Custom Applications, Script Development
 GLSL | Visual Studio | Custom Graphics Engine / Framework
 Lua | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
-HTML | VSCode | HTML Based Web Development
-CSS | VSCode | Used in Tandem with HTML
+HTML | VSCode | Web Development
+CSS | VSCode | Web Development
+JavaScript | VSCode | Web Development
+PHP | VSCode | Web Development
+SQL | VSCode | Database Management, Web Development
+
+
+
 
 Art & Design | Software | Deployment & Usage
 -------------|----------|-------------------
