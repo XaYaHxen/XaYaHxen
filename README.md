@@ -21,8 +21,8 @@ Lua | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organizati
 HTML | VSCode | Web Development
 CSS | VSCode | Web Development
 JavaScript | VSCode | Web Development
-PHP | VSCode | Web Development
-SQL | VSCode | Database Management, Web Development
+PHP | VSCode, PHPMyAdmin | Web Development
+SQL | VSCode, MySQL | Database Management, Web Development
 
 
 
