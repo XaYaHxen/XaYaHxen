@@ -4,7 +4,7 @@
 
 ### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
 
-#### 🔭 I’m currently working on: iNFECETED (**Unreal Engine** _/_ **C++**) & A Life Simulator Project (**Unreal Engine** _/_ **C++**)!
+#### 🔭 I’m currently working on: iNFECTED (**Unreal Engine** _/_ **C++**) & A Life Simulator Project (**Unreal Engine** _/_ **C++**)!
 
 #### 😄 Pronouns: He/Him
 
