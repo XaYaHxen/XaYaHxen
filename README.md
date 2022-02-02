@@ -8,7 +8,12 @@
 
 😄 Pronouns: He/Him
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexander-bowerman)
+📫 My Links: 
+[LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
+[Portfolio](https://www.alexanderbowerman.me) 
+[Twitter](https://twitter.com/AlexXenB)
+[YouTube](https://www.youtube.com/channel/UCYiFlZN-kG0jM2nyQfvQJyA)
+[Web Games](https://www.alexanderbowerman.me/Game/index.html)
 
 #### My Skills:
 
@@ -20,7 +25,7 @@ GLSL | Visual Studio | Custom Graphics Engine / Framework
 Lua | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
 HTML | VSCode | Web Development
 CSS | VSCode | Web Development
-JavaScript | VSCode | Web Development
+JavaScript | VSCode | Web Development, Game Development
 PHP | VSCode, PHPMyAdmin | Web Development
 SQL | VSCode, MySQL | Database Management, Web Development
 
