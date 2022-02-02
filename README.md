@@ -13,7 +13,7 @@
 [Portfolio](https://www.alexanderbowerman.me) 
 [Twitter](https://twitter.com/AlexXenB)
 [YouTube](https://www.youtube.com/channel/UCYiFlZN-kG0jM2nyQfvQJyA)
-[Web Games](https://www.alexanderbowerman.me/Game/index.html)
+[Web Games](https://www.alexanderbowerman.me/Games/index.html)
 
 #### My Skills:
 
