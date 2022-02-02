@@ -4,16 +4,16 @@
 
 ### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
 
-🔭 I’m currently working on: SpiritScape (**Unity Engine** _/_ **C#**) & A Secret Project (**Unreal Engine** _/_ **C++**)!
+#### 🔭 I’m currently working on: iNFECETED (**Unreal Engine** _/_ **C++**) & A Life Simulator Project (**Unreal Engine** _/_ **C++**)!
 
-😄 Pronouns: He/Him
+#### 😄 Pronouns: He/Him
 
-📫 My Links: 
- ### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
- ### [Portfolio](https://www.alexanderbowerman.me) 
- ### [Twitter](https://twitter.com/AlexXenB)
- ### [YouTube](https://www.youtube.com/channel/UCYiFlZN-kG0jM2nyQfvQJyA)
- ### [Web Games](https://www.alexanderbowerman.me/Games/index.html)
+####📫 My Links: 
+#### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
+#### [Portfolio](https://www.alexanderbowerman.me) 
+#### [Twitter](https://twitter.com/AlexXenB)
+#### [YouTube](https://www.youtube.com/channel/UCYiFlZN-kG0jM2nyQfvQJyA)
+#### [Web Games](https://www.alexanderbowerman.me/Games/index.html)
 
 #### My Skills:
 
