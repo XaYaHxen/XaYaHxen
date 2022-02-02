@@ -8,7 +8,7 @@
 
 #### 😄 Pronouns: He/Him
 
-####📫 My Links: 
+#### 📫 My Links: 
 #### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
 #### [Portfolio](https://www.alexanderbowerman.me) 
 #### [Twitter](https://twitter.com/AlexXenB)
